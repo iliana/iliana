@@ -1,4 +1,5 @@
-![business](https://user-images.githubusercontent.com/52814/85824458-b6b94900-b734-11ea-8575-68aa007812da.jpg)
+[![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
+![Build Status](https://img.shields.io/badge/build-passing-success)
 
 <!--
 **iliana/iliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
