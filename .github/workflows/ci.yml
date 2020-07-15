@@ -1,0 +1,13 @@
+name: Continuous Integration
+on:
+  push:
+    branches: [mistress]
+  pull_request:
+    branches: [mistress]
+jobs:
+  build:
+    name: Integrate Continuously
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: sha256sum README.md
