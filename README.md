@@ -6,7 +6,7 @@ my name is [always spelled lowercase](https://linuxwit.ch/lowercase/) and is pro
 
 please consider making the internet a weirder place today
 
-<sup>
+<sub>
   
   current avatar by [@bulkybun](https://twitter.com/bulkybun) ([picrew](https://picrew.me/image_maker/428609))
-</sup>
+</sub>
