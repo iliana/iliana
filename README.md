@@ -8,5 +8,5 @@ please consider making the internet a weirder place today
 
 <sub>
   
-  current avatar by [@bulkybun](https://twitter.com/bulkybun) ([picrew](https://picrew.me/image_maker/428609))
+  current avatar by [Tofu](https://twitter.com/Tofu_Rabbit)
 </sub>
