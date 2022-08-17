@@ -6,6 +6,11 @@ my name is [always spelled lowercase](https://linuxwit.ch/lowercase/) and is pro
 
 please consider making the internet a weirder place today
 
+note: if you send me unsolicited email based on my github profile:
+* i *will* screenshot it and share in my discord server
+* we *will* make fun of you
+* you will *not* receive a response
+
 <sub>
   
   current avatar by [Tofu](https://twitter.com/Tofu_Rabbit)
