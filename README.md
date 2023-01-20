@@ -6,11 +6,4 @@ my name is [always spelled lowercase](https://iliana.fyi/lowercase/) and is pron
 
 please consider making the internet a weirder place today
 
-note: if you send me unsolicited[^1] email based on my github profile:
-* i *will* screenshot it and share in my discord server
-* we *will* make fun of you
-* you will *not* receive a response
-
-[^1]: it's fine to contact me via email about specific questions on my repositories.
-
 <sub>current avatar by [Tofu](https://twitter.com/Tofu_Rabbit)</sub>
