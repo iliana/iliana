@@ -3,7 +3,7 @@
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/iliana/iliana/ci.yml?branch=magnet)](https://github.com/iliana/iliana/actions?query=workflow%3A%22Continuous+Integration%22)
 
 my name is [always spelled lowercase](https://iliana.fyi/lowercase/) and is pronounced [/ɪliˈɑnə ɛˈtiːn/](https://iliana.fyi/etaoin.flac).<br>
-further repos may be found at [git.iliana.fyi](https://git.iliana.fyi).
+further repos may be found at @haha-business or [git.iliana.fyi](https://git.iliana.fyi).
 
 please consider making the internet a weirder place today
 
